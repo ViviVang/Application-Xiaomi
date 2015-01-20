@@ -108,7 +108,7 @@
     <string name="KSCSDK_MSG401_NOAPI_PERMISSION">Problèmes du client, mettre dans une version plus récente et essayez à nouveau.</string>
     <string name="KSCSDK_MSG401_BAD_VERIFER">Problèmes du client, mettre dans une version plus récente et essayez à nouveau.</string>
     <string name="KSCSDK_MSG401_AUTH_FAILED">Il y a quelques problèmes, essayer à nouveau.</string>
-    <string name="KSCSDK_MSG403_FILE_EXIST">有个同名文件了，换个名称试试？</string>
+    <string name="KSCSDK_MSG403_FILE_EXIST">Un fichier ayant le même nom existe déjà, voulez-vous le remplacer ?</string>
     <string name="KSCSDK_MSG403_FORBIDDEN">Problèmes serveur, essayer à nouveau.</string>
     <string name="KSCSDK_MSG404_FILE_NOT_EXIST">Ce fichier est introuvable, essayer à nouveau.</string>
     <string name="KSCSDK_MSG404_NO_SUCH_USER">这个ID还没注册快盘呢。</string>
